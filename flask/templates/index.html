@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <title>
+           Football winner prediction
+        </title>
+        <style>
+input[type=text], select {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+body{
+    background-image: url("static/img/cip.jpg");
+    background-repeat: no-repeat;
+    
+
+}
+div {
+    border-radius: 5px;
+  
+    padding: 20px;
+}
+h1 {
+    font-family: "sans-serif";
+    font-color: "white";
+}
+</style>
+    </head>
+    <body >
+   <font color = "white" >
+<h1 align="center">FOOTBALL WINNER PREDICTION</h1></font>
+        <p>
+            <div>
+                <center>
+
+            <form action="/hello" method="post">
+                <select name="team1_name">
+                                <option name="team1_name" value="Arsenal">Enter team 1 name</option>
+                				<option name="team1_name" value="Arsenal">Arsenal</option>
+                				<option name="team1_name" value="Aston_Villa">Aston Villa</option>
+                				<option name="team1_name" value="Birmingham">Birmingham</option>
+                				<option name="team1_name" value="Blackburn">Blackburn</option>
+                				<option name="team1_name" value="Blackpool">Blackpool</option>
+                				<option name="team1_name" value="Bolton">Bolton</option>
+                				<option name="team1_name" value="Bournemouth">Bournemouth</option>
+                				<option name="team1_name" value="Burnley">Burnley</option>
+                				<option name="team1_name" value="Cardiff">Cardiff</option>
+                				<option name="team1_name" value="Charlton">Charlton</option>
+                				<option name="team1_name" value="Chelsea">Chelsea</option>
+                				<option name="team1_name" value="Crystal_Palace">Crystal Palace</option>
+                				<option name="team1_name" value="Derby">Derby</option>
+                				<option name="team1_name" value="Everton">Everton</option>
+                				<option name="team1_name" value="Fulham">Fulham</option>
+                				<option name="team1_name" value="Hull">Hull</option>
+                				<option name="team1_name" value="Leeds">Leeds</option>
+                				<option name="team1_name" value="Leicester">Leicester</option>
+                				<option name="team1_name" value="Liverpool">Liverpool</option>
+                				<option name="team1_name" value="Man_City">Man City</option>
+                				<option name="team1_name" value="Man_United">Man United</option>
+                				<option name="team1_name" value="Middlesbrough">Middlesbrough</option>
+                				<option name="team1_name" value="Newcastle">Newcastle</option>
+                				<option name="team1_name" value="Norwich">Norwich</option>
+                				<option name="team1_name" value="Portsmouth">Portsmouth</option>
+                				<option name="team1_name" value="QPR">QPR</option>
+                				<option name="team1_name" value="Reading">Reading</option>
+                				<option name="team1_name" value="Sheffield_United">Sheffield United</option>
+                				<option name="team1_name" value="Southampton">Southampton</option>
+                				<option name="team1_name" value="Stoke">Stoke</option>
+                				<option name="team1_name" value="Sunderland">Sunderland</option>
+                				<option name="team1_name" value="Swansea">Swansea</option>
+                				<option name="team1_name" value="Tottenham">Tottenham</option>
+                				<option name="team1_name" value="Watford">Watford</option>
+                				<option name="team1_name" value="West_Brom">West Brom</option>
+               				<option name="team1_name" value="West_Ham">West Ham</option>
+                				<option name="team1_name" value="Wigan">Wigan</option>
+                				<option name="team1_name" value="Wolves">Wolves</option>
+                			</select>
+                			<br>
+                <select name="team2_name">
+                                <option name="team1_name" value="Arsenal">Enter team 2 name</option>
+                				<option name="team2_name" value="Arsenal">Arsenal</option>
+                				<option name="team2_name" value="Aston_Villa">Aston Villa</option>
+                				<option name="team2_name" value="Birmingham">Birmingham</option>
+                				<option name="team2_name" value="Blackburn">Blackburn</option>
+                				<option name="team2_name" value="Blackpool">Blackpool</option>
+                				<option name="team2_name" value="Bolton">Bolton</option>
+                				<option name="team2_name" value="Bournemouth">Bournemouth</option>
+                				<option name="team2_name" value="Burnley">Burnley</option>
+                				<option name="team2_name" value="Cardiff">Cardiff</option>
+                				<option name="team2_name" value="Charlton">Charlton</option>
+                				<option name="team2_name" value="Chelsea">Chelsea</option>
+                				<option name="team2_name" value="Crystal_Palace">Crystal Palace</option>
+                				<option name="team2_name" value="Derby">Derby</option>
+                				<option name="team2_name" value="Everton">Everton</option>
+                				<option name="team2_name" value="Fulham">Fulham</option>
+                				<option name="team2_name" value="Hull">Hull</option>
+                				<option name="team2_name" value="Leeds">Leeds</option>
+                				<option name="team2_name" value="Leicester">Leicester</option>
+                				<option name="team2_name" value="Liverpool">Liverpool</option>
+                				<option name="team2_name" value="Man_City">Man City</option>
+                				<option name="team2_name" value="Man_United">Man United</option>
+                				<option name="team2_name" value="Middlesbrough">Middlesbrough</option>
+                				<option name="team2_name" value="Newcastle">Newcastle</option>
+                				<option name="team2_name" value="Norwich">Norwich</option>
+                				<option name="team2_name" value="Portsmouth">Portsmouth</option>
+                				<option name="team2_name" value="QPR">QPR</option>
+                				<option name="team2_name" value="Reading">Reading</option>
+                				<option name="team2_name" value="Sheffield_United">Sheffield United</option>
+                				<option name="team2_name" value="Southampton">Southampton</option>
+                				<option name="team2_name" value="Stoke">Stoke</option>
+                				<option name="team2_name" value="Sunderland">Sunderland</option>
+                				<option name="team2_name" value="Swansea">Swansea</option>
+                				<option name="team2_name" value="Tottenham">Tottenham</option>
+                				<option name="team2_name" value="Watford">Watford</option>
+                				<option name="team2_name" value="West_Brom">West Brom</option>
+                				<option name="team2_name" value="West_Ham">West Ham</option>
+                				<option name="team2_name" value="Wigan">Wigan</option>
+                				<option name="team2_name" value="Wolves">Wolves</option>
+                			</select><br>
+                 <input type="text" name="t_score1" placeholder="Enter team 1 score"/> <br>
+                <input type="text" name="t_score2" placeholder="Enter team 2 score"/><br>
+                <input type="text" name="t_shots1" placeholder="Enter team 1 shots"/><br>
+                <input type="text" name="t_shots2" placeholder="Enter team 2 shots"/><br>
+                <input type="text" name="t_shotsontarget1" placeholder="Enter team 1 shots on target"/><br>
+                <input type="text" name="t_shotsontarget2" placeholder="Enter team 2 shots on target"/><br>
+                <input type="text" name="t_fouls1" placeholder="Enter team 1 fouls"/><br>
+                <input type="text" name="t_fouls2" placeholder="Enter team 2 fouls"/><br>
+                <input type="text" name="t_corners1" placeholder="Enter team 1 corners"/><br>
+                <input type="text" name="t_corners2" placeholder="Enter team 2 corners"/><br>
+                <input type="text" name="t_yellow1" placeholder="Enter team 1 yellow cards"/><br>
+                <input type="text" name="t_yellow2" placeholder="Enter team 2 yellow cards"/><br>
+                <input type="text" name="t_red1" placeholder="Enter team 1 red cards"/><br>
+                <input type="text" name="t_red2" placeholder="Enter team 2 red cards"/><br>
+                
+                
+            
+                <input type="submit" name= "form" value="Submit" />
+            </center>
+            </form>
+            </div>
+        </p>
+    </body>
+</html>

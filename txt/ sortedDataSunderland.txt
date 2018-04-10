@@ -1,0 +1,350 @@
+Sunderland;West Brom;2;2;38;44;False;7;10;2;5;9;18;3;6;1;3;0;0
+Sunderland;Man United;1;1;38;70;True;11;10;3;3;10;15;4;4;0;2;0;0
+Sunderland;QPR;0;1;38;30;False;16;18;6;5;9;8;6;4;2;1;0;0
+Sunderland;Tottenham;2;2;38;64;True;6;15;1;6;10;13;5;5;5;1;0;0
+Sunderland;Burnley;0;0;38;33;False;14;17;6;6;14;14;1;5;2;1;0;0
+Sunderland;Swansea;0;0;38;56;True;15;7;3;1;13;15;10;1;2;1;0;1
+Sunderland;Stoke;3;1;38;54;True;8;11;3;5;10;17;7;4;3;4;0;0
+Sunderland;Southampton;0;8;38;60;False;12;20;1;11;8;11;6;5;3;1;0;0
+Sunderland;Arsenal;0;2;38;75;True;11;15;3;5;11;9;3;3;3;3;0;0
+Sunderland;Crystal Palace;3;1;38;48;False;8;9;7;1;19;12;2;11;3;0;0;1
+Sunderland;Everton;1;1;38;47;True;10;16;3;7;11;13;5;4;1;2;0;0
+Sunderland;Leicester;0;0;38;41;False;10;13;5;4;12;18;9;6;3;2;0;0
+Sunderland;Chelsea;0;0;38;87;True;12;24;3;6;13;10;2;8;3;2;0;0
+Sunderland;Man City;1;4;38;79;True;8;15;2;4;9;8;2;0;1;1;0;0
+Sunderland;Liverpool;0;0;38;62;False;7;15;1;2;15;12;7;5;3;1;0;0
+Sunderland;West Ham;1;1;38;47;True;13;19;4;8;11;18;6;8;2;2;0;0
+Sunderland;Newcastle;1;0;38;39;False;16;15;3;7;15;15;1;7;4;4;0;0
+Sunderland;Hull;1;3;38;35;True;12;13;3;5;12;6;10;4;4;2;0;0
+Sunderland;Aston Villa;0;0;38;38;False;15;14;3;3;11;4;4;4;4;1;0;1
+Sunderland;Man City;2;3;38;79;False;4;32;4;12;7;14;4;10;3;2;0;0
+Sunderland;Liverpool;0;1;38;62;True;5;21;1;4;12;11;6;6;1;4;1;0
+Sunderland;Tottenham;1;2;38;64;False;8;25;4;8;8;14;6;6;2;1;0;0
+Sunderland;Burnley;2;0;38;33;True;8;13;3;4;12;12;6;3;3;1;0;0
+Sunderland;Swansea;1;1;38;56;False;4;16;1;7;13;11;1;7;4;3;0;0
+Sunderland;QPR;0;2;38;30;True;16;19;5;4;8;12;8;4;2;3;0;0
+Sunderland;West Brom;0;0;38;44;True;13;5;2;1;11;12;11;2;1;2;1;0
+Sunderland;Man United;0;2;38;70;False;5;30;3;10;11;6;1;13;1;1;1;0
+Sunderland;Hull;1;1;38;35;False;9;15;3;5;15;9;4;6;6;2;0;0
+Sunderland;Aston Villa;0;4;38;38;True;12;14;2;8;10;9;2;5;1;1;0;0
+Sunderland;West Ham;0;1;38;47;False;7;15;3;4;11;14;4;6;1;0;0;0
+Sunderland;Newcastle;1;0;38;39;True;16;10;4;1;14;18;8;4;5;2;0;0
+Sunderland;Crystal Palace;1;4;38;48;True;12;14;3;5;15;17;8;4;2;2;0;0
+Sunderland;Stoke;1;1;38;54;False;15;23;5;8;15;14;8;9;3;2;0;0
+Sunderland;Southampton;2;1;38;60;True;12;11;6;2;12;13;1;1;2;2;0;1
+Sunderland;Everton;2;0;38;47;False;10;22;3;4;9;10;1;15;3;2;0;0
+Sunderland;Leicester;0;0;38;41;True;13;11;3;0;14;15;8;9;4;1;0;0
+Sunderland;Arsenal;0;0;38;75;False;7;28;3;8;8;6;2;5;0;1;0;0
+Sunderland;Chelsea;1;3;38;87;False;17;24;9;8;8;12;3;11;1;2;0;0
+Sunderland;Liverpool;0;1;38;62;True;6;14;3;8;13;12;1;8;0;2;0;0
+Sunderland;Tottenham;2;1;38;64;False;12;18;7;11;12;12;6;12;2;1;0;0
+Sunderland;Man City;0;3;38;79;True;10;9;4;8;20;11;3;3;4;2;0;0
+Sunderland;Wigan;1;1;38;39;False;6;12;5;8;9;10;6;8;1;1;0;1
+Sunderland;Middlesbrough;2;0;38;85;True;17;14;11;11;9;16;8;7;2;3;0;0
+Sunderland;Aston Villa;1;2;38;38;False;9;12;3;8;9;8;5;5;1;1;0;0
+Sunderland;Arsenal;1;1;38;75;True;8;13;5;7;10;11;1;7;3;5;0;0
+Sunderland;Fulham;0;0;38;52;False;14;13;7;9;8;12;5;8;1;1;0;0
+Sunderland;Newcastle;2;1;38;39;True;14;10;3;5;11;11;2;4;1;2;0;0
+Sunderland;Stoke;0;1;38;54;False;9;9;4;6;8;10;4;4;1;2;0;0
+Sunderland;Chelsea;0;5;38;87;False;1;17;0;11;11;5;0;4;1;0;0;0
+Sunderland;Portsmouth;1;2;38;72;True;9;10;6;5;8;10;8;3;2;1;0;0
+Sunderland;Blackburn;2;1;38;67;False;10;16;6;8;9;9;9;11;4;3;0;0
+Sunderland;West Ham;0;1;38;47;True;17;10;6;5;13;16;4;2;2;1;0;0
+Sunderland;Bolton;1;4;38;51;True;14;11;9;6;9;6;5;6;4;0;0;0
+Sunderland;Man United;0;1;38;70;False;2;27;2;15;8;8;1;10;0;1;0;0
+Sunderland;West Brom;4;0;38;44;True;16;14;10;6;8;14;1;11;1;2;0;0
+Sunderland;Hull;4;1;38;35;False;15;14;6;8;10;20;6;6;1;3;0;1
+Sunderland;Blackburn;0;0;38;67;True;13;7;8;3;5;11;5;2;0;3;0;0
+Sunderland;Everton;0;3;38;47;False;8;10;5;6;10;6;2;8;4;1;0;0
+Sunderland;Middlesbrough;1;1;38;85;False;10;9;5;3;13;11;7;2;4;0;0;0
+Sunderland;Aston Villa;1;2;38;38;True;9;4;6;3;14;17;8;6;4;2;0;1
+Sunderland;Fulham;1;0;38;52;True;16;15;11;8;2;10;3;1;0;0;0;0
+Sunderland;Newcastle;1;1;38;39;False;16;15;9;10;19;13;3;4;4;2;0;0
+Sunderland;Stoke;2;0;38;54;True;12;5;6;1;7;9;3;3;2;1;0;1
+Sunderland;Arsenal;0;0;38;75;False;3;16;2;9;12;6;3;8;2;2;0;0
+Sunderland;Liverpool;0;2;38;62;False;5;22;2;12;6;9;2;6;1;1;0;0
+Sunderland;Tottenham;1;1;38;64;True;8;13;3;8;17;9;4;1;3;2;0;0
+Sunderland;Wigan;1;2;38;39;True;7;9;3;5;8;11;6;2;0;1;0;0
+Sunderland;Man City;0;1;38;79;False;6;18;5;10;12;16;7;7;6;3;1;0
+Sunderland;West Ham;0;2;38;47;False;14;16;9;11;7;10;8;11;1;1;0;0
+Sunderland;Man United;1;2;38;70;True;12;18;7;8;6;3;5;4;1;2;0;0
+Sunderland;Hull;1;0;38;35;True;8;13;4;3;11;23;6;6;2;3;0;0
+Sunderland;West Brom;0;3;38;44;False;9;15;5;9;14;9;3;6;1;0;0;0
+Sunderland;Everton;0;2;38;47;True;8;10;3;8;15;12;9;3;3;4;0;0
+Sunderland;Bolton;0;0;38;51;False;15;8;4;4;3;12;3;10;0;2;0;0
+Sunderland;Portsmouth;1;3;38;72;False;20;9;9;4;6;11;6;5;0;1;0;0
+Sunderland;Chelsea;2;3;38;87;True;8;14;7;9;8;7;6;7;1;1;0;0
+Sunderland;Birmingham;2;2;38;63;True;6;13;2;7;13;10;3;6;3;3;1;0
+Sunderland;West Brom;0;1;38;44;False;10;11;4;5;12;16;6;4;2;2;0;0
+Sunderland;Man City;1;0;38;79;True;12;9;4;7;5;9;3;7;0;3;0;0
+Sunderland;Wigan;1;1;38;39;False;4;17;2;4;11;19;1;5;2;4;1;0
+Sunderland;Arsenal;1;1;38;75;True;16;16;5;7;11;13;11;3;2;2;0;1
+Sunderland;Liverpool;2;2;38;62;False;10;13;1;5;7;15;3;3;1;3;0;0
+Sunderland;Man United;0;0;38;70;True;14;10;8;4;10;6;10;4;1;2;0;0
+Sunderland;Blackburn;0;0;38;67;False;16;9;7;3;11;12;3;5;1;2;0;1
+Sunderland;Aston Villa;1;0;38;38;True;13;11;6;7;11;13;4;11;1;2;0;0
+Sunderland;Newcastle;1;5;38;39;False;11;16;5;12;18;8;6;8;6;3;1;0
+Sunderland;Stoke;2;0;38;54;True;14;11;7;5;10;13;6;9;0;5;0;0
+Sunderland;Tottenham;1;1;38;64;False;8;20;4;12;15;6;3;17;1;2;0;0
+Sunderland;Chelsea;3;0;38;87;False;19;14;9;7;13;9;3;6;2;1;0;0
+Sunderland;Everton;2;2;38;47;True;13;10;8;8;5;7;4;4;0;2;0;0
+Sunderland;Wolves;2;3;38;78;False;15;14;9;8;10;11;5;11;3;2;0;0
+Sunderland;West Ham;1;0;38;47;True;17;8;12;2;6;8;9;3;1;3;0;0
+Sunderland;Fulham;0;0;38;52;False;11;14;2;13;10;14;3;4;1;0;0;0
+Sunderland;Bolton;1;0;38;51;True;13;12;5;8;6;13;2;5;1;3;0;0
+Sunderland;Man United;0;2;38;70;False;6;14;2;10;10;9;3;5;2;0;0;0
+Sunderland;Blackpool;0;2;38;26;True;32;9;16;4;6;5;9;2;2;0;0;0
+Sunderland;Blackburn;3;0;38;67;True;13;11;7;3;13;9;3;2;1;2;0;0
+Sunderland;Aston Villa;1;0;38;38;False;11;8;5;2;12;9;9;5;3;3;1;1
+Sunderland;Newcastle;1;1;38;39;True;10;9;7;2;17;5;4;6;1;1;0;0
+Sunderland;Blackpool;2;1;38;26;False;11;13;6;7;9;13;4;10;0;2;0;0
+Sunderland;Chelsea;2;4;38;87;True;4;21;3;14;10;10;0;6;1;2;0;0
+Sunderland;Stoke;2;3;38;54;False;11;18;7;9;15;7;4;12;3;1;0;0
+Sunderland;Tottenham;1;2;38;64;True;16;11;10;5;14;12;2;3;2;4;0;0
+Sunderland;Everton;0;2;38;47;False;12;17;7;9;8;11;1;4;0;0;0;0
+Sunderland;Arsenal;0;0;38;75;False;6;14;3;7;10;13;6;5;3;3;0;0
+Sunderland;Liverpool;0;2;38;62;True;3;10;1;4;11;7;3;6;3;3;1;0
+Sunderland;Man City;0;5;38;79;False;8;14;4;12;20;9;5;6;3;2;0;0
+Sunderland;West Brom;2;3;38;44;True;7;12;4;8;10;11;5;2;3;1;0;0
+Sunderland;Birmingham;0;2;38;63;False;15;10;7;4;10;7;9;4;0;0;0;0
+Sunderland;Wigan;4;2;38;39;True;11;11;7;7;11;9;7;3;1;2;0;0
+Sunderland;Fulham;0;3;38;52;True;11;9;7;6;7;12;5;4;1;0;0;0
+Sunderland;Bolton;2;1;38;51;False;10;17;6;9;10;14;5;5;0;1;0;0
+Sunderland;Wolves;1;3;38;78;True;14;10;9;6;8;19;5;5;0;0;0;0
+Sunderland;West Ham;3;0;38;47;False;17;17;12;12;8;7;6;4;2;0;0;0
+Sunderland;Fulham;0;1;38;52;True;20;5;3;1;14;14;6;1;0;3;0;0
+Sunderland;Southampton;1;1;38;60;False;8;17;3;6;13;12;2;5;2;2;0;0
+Sunderland;Crystal Palace;1;3;38;48;False;10;17;2;6;6;6;6;6;0;1;1;0
+Sunderland;Arsenal;1;3;38;75;True;17;14;2;6;12;10;6;7;1;2;0;0
+Sunderland;West Brom;0;3;38;44;False;7;13;0;4;10;9;6;5;2;0;0;0
+Sunderland;Liverpool;1;3;38;62;True;23;15;5;6;8;10;10;8;2;1;0;0
+Sunderland;Man United;1;2;38;70;True;6;13;2;6;15;13;4;4;2;4;0;0
+Sunderland;Swansea;0;4;38;56;False;6;14;1;6;13;12;2;7;2;1;0;0
+Sunderland;Newcastle;2;1;38;39;True;8;16;4;4;13;14;5;3;1;1;0;0
+Sunderland;Hull;0;1;38;35;False;9;25;1;2;11;17;2;4;0;2;2;0
+Sunderland;Man City;1;0;38;79;True;5;24;2;4;6;13;0;14;0;1;0;0
+Sunderland;Stoke;0;2;38;54;False;11;17;3;5;5;11;7;3;1;2;1;0
+Sunderland;Aston Villa;0;0;38;38;False;7;13;1;4;12;14;6;7;1;2;0;0
+Sunderland;Chelsea;3;4;38;87;True;12;19;3;5;15;14;6;5;4;3;0;0
+Sunderland;Tottenham;1;2;38;64;True;11;22;4;5;14;9;4;10;2;0;0;0
+Sunderland;West Ham;0;0;38;47;False;19;11;6;2;5;11;9;2;0;1;0;0
+Sunderland;Norwich;0;0;38;86;True;18;14;4;5;13;10;6;7;2;1;1;0
+Sunderland;Everton;1;0;38;47;False;13;26;6;9;7;11;2;11;0;1;0;1
+Sunderland;Cardiff;2;2;38;62;False;21;16;9;7;10;14;6;6;2;3;0;0
+Sunderland;Aston Villa;0;1;38;38;True;17;13;1;5;8;11;10;2;4;3;0;0
+Sunderland;Fulham;4;1;38;52;False;10;17;6;5;13;15;6;10;3;3;0;0
+Sunderland;Southampton;2;2;38;60;True;10;17;5;8;8;8;4;7;2;0;0;0
+Sunderland;Stoke;1;0;38;54;True;16;14;6;5;16;15;2;3;2;2;0;1
+Sunderland;Newcastle;3;0;38;39;False;16;28;5;10;13;18;3;7;2;2;0;0
+Sunderland;Hull;0;2;38;35;True;7;25;3;9;12;16;2;6;1;3;1;0
+Sunderland;Arsenal;1;4;38;75;False;7;12;3;9;11;10;3;7;1;0;0;0
+Sunderland;Crystal Palace;0;0;38;48;True;19;12;2;5;16;14;6;2;4;4;0;0
+Sunderland;Norwich;0;2;38;86;False;10;14;2;8;20;16;5;8;4;2;1;0
+Sunderland;Liverpool;1;2;38;62;False;12;21;4;7;15;5;4;3;2;0;0;0
+Sunderland;West Ham;1;2;38;47;True;26;11;7;6;11;14;8;3;2;4;0;0
+Sunderland;Tottenham;1;5;38;64;False;8;29;4;11;8;12;2;8;2;0;0;0
+Sunderland;Everton;0;1;38;47;True;24;20;6;3;17;15;6;6;3;1;0;0
+Sunderland;Man City;2;2;38;79;False;11;16;3;4;10;14;6;3;2;1;0;0
+Sunderland;Chelsea;2;1;38;87;False;7;31;3;15;14;11;4;10;2;1;0;0
+Sunderland;Cardiff;4;0;38;62;True;21;6;7;1;10;11;11;5;5;3;0;1
+Sunderland;Man United;1;0;38;70;False;8;17;1;2;12;11;0;8;1;2;0;0
+Sunderland;West Brom;2;0;38;44;True;10;13;4;3;14;12;5;0;0;0;0;0
+Sunderland;Swansea;1;3;38;56;True;20;8;4;4;14;15;6;3;2;3;0;0
+Sunderland;Tottenham;1;0;38;64;True;9;6;4;3;14;14;7;2;1;1;0;0
+Sunderland;Birmingham;2;2;38;63;False;7;7;3;3;10;17;7;2;1;1;0;0
+Sunderland;Wigan;0;3;38;39;False;9;9;6;4;17;8;9;5;2;0;0;0
+Sunderland;Liverpool;0;2;38;62;True;7;17;2;12;12;12;6;4;1;1;0;0
+Sunderland;Man United;0;1;38;70;False;4;17;1;9;7;10;0;6;2;1;0;0
+Sunderland;Reading;2;1;38;50;True;14;10;8;4;14;18;9;9;1;2;0;0
+Sunderland;Middlesbrough;2;2;38;85;False;11;16;6;5;11;18;2;7;4;3;0;0
+Sunderland;Blackburn;1;2;38;67;True;14;14;12;8;11;4;10;2;1;0;0;0
+Sunderland;Arsenal;2;3;38;75;False;11;18;7;8;9;10;2;8;2;0;1;0
+Sunderland;West Ham;1;3;38;47;False;16;12;10;7;17;8;7;6;2;3;0;0
+Sunderland;Fulham;1;1;38;52;True;8;8;6;3;13;16;9;1;1;4;1;0
+Sunderland;Man City;0;1;38;79;False;8;7;2;3;14;11;3;2;1;0;0;0
+Sunderland;Newcastle;1;1;38;39;True;19;9;8;5;10;15;7;4;1;2;0;0
+Sunderland;Everton;1;7;38;47;False;13;24;7;18;13;9;6;2;1;0;0;0
+Sunderland;Derby;1;0;38;77;True;20;12;9;9;12;15;5;3;1;1;0;0
+Sunderland;Chelsea;0;2;38;87;False;9;11;2;4;12;6;2;10;1;0;1;0
+Sunderland;Aston Villa;1;1;38;38;True;9;14;7;11;17;14;5;13;2;2;0;0
+Sunderland;Reading;1;2;38;50;False;8;17;4;9;17;9;2;7;4;0;0;0
+Sunderland;Man United;0;4;38;70;True;10;17;3;11;14;12;4;3;2;1;0;0
+Sunderland;Bolton;3;1;38;51;True;5;5;5;3;12;16;2;6;1;2;0;0
+Sunderland;Blackburn;0;1;38;67;False;7;8;4;3;11;12;3;7;4;3;1;0
+Sunderland;Portsmouth;2;0;38;72;True;12;9;5;5;14;6;7;5;3;1;0;0
+Sunderland;Tottenham;0;2;38;64;False;14;17;8;13;13;13;7;6;2;2;0;0
+Sunderland;Birmingham;2;0;38;63;True;9;5;6;2;9;18;4;8;1;3;0;0
+Sunderland;Liverpool;0;3;38;62;False;6;14;3;11;10;8;1;4;2;1;0;0
+Sunderland;Wigan;2;0;38;39;True;9;21;4;11;13;6;2;8;0;1;0;0
+Sunderland;Portsmouth;0;1;38;72;False;5;17;2;10;13;13;3;5;2;1;0;0
+Sunderland;Derby;0;0;38;77;False;13;8;5;4;15;19;5;4;1;5;0;0
+Sunderland;Everton;0;1;38;47;True;9;7;6;6;17;9;3;4;2;1;0;0
+Sunderland;Chelsea;0;1;38;87;True;11;11;4;3;8;9;7;7;2;1;0;0
+Sunderland;Aston Villa;1;0;38;38;False;12;9;3;3;11;9;4;4;2;0;0;0
+Sunderland;West Ham;2;1;38;47;True;22;10;12;4;9;10;13;4;2;1;0;0
+Sunderland;Fulham;3;1;38;52;False;9;14;6;5;9;12;5;8;0;2;0;0
+Sunderland;Man City;1;2;38;79;True;12;7;7;5;13;12;6;2;3;2;0;0
+Sunderland;Newcastle;0;2;38;39;False;12;8;8;4;13;8;4;4;5;0;0;0
+Sunderland;Middlesbrough;3;2;38;85;True;10;10;5;6;13;9;7;1;3;2;0;0
+Sunderland;Bolton;0;2;38;51;False;5;4;4;2;12;11;1;3;0;1;0;0
+Sunderland;Arsenal;0;1;38;75;True;13;12;5;8;14;12;3;4;1;1;0;0
+Sunderland;Leicester;2;4;38;41;False;10;19;5;8;17;13;3;6;4;2;0;0
+Sunderland;Norwich;1;3;38;86;True;6;19;2;6;7;7;6;6;1;2;0;0
+Sunderland;Swansea;1;1;38;56;True;10;20;2;9;16;9;3;4;4;2;0;0
+Sunderland;Aston Villa;2;2;38;38;False;7;21;3;6;14;10;4;5;1;2;0;0
+Sunderland;Tottenham;0;1;38;64;True;12;15;2;4;11;12;6;8;2;1;0;0
+Sunderland;Bournemouth;0;2;38;80;False;9;15;2;5;15;14;3;7;4;2;1;0
+Sunderland;Man United;0;3;38;70;False;9;12;4;7;17;12;2;5;3;0;0;0
+Sunderland;West Ham;2;2;38;47;True;12;20;3;6;14;11;1;8;2;4;1;0
+Sunderland;Liverpool;1;1;38;62;False;15;11;6;4;12;17;3;6;4;4;0;0
+Sunderland;Newcastle;0;1;38;39;True;15;12;5;10;17;7;7;6;3;3;1;0
+Sunderland;Swansea;0;0;38;56;False;12;15;8;6;10;7;4;7;1;1;0;0
+Sunderland;Chelsea;1;2;38;87;True;14;16;7;8;7;3;4;7;1;1;0;0
+Sunderland;Stoke;4;0;38;54;True;8;9;7;5;15;12;6;5;1;2;0;0
+Sunderland;Norwich;1;2;38;86;False;12;11;6;8;7;3;4;7;1;2;0;0
+Sunderland;West Brom;2;2;38;44;True;12;7;7;3;9;13;7;4;2;0;0;0
+Sunderland;Arsenal;1;2;38;75;False;8;20;4;11;19;9;2;9;3;3;0;0
+Sunderland;Bolton;2;0;38;51;False;18;15;10;8;14;15;11;2;3;0;0;0
+Sunderland;Aston Villa;2;2;38;38;True;13;10;8;5;7;13;5;6;1;3;0;0
+Sunderland;Man United;0;1;38;70;False;9;15;3;9;14;6;2;6;2;0;0;0
+Sunderland;Fulham;0;0;38;52;True;13;13;8;9;8;12;6;7;1;1;0;0
+Sunderland;Wigan;1;2;38;39;True;17;7;11;4;12;13;3;2;3;1;0;0
+Sunderland;Wolves;1;2;38;78;False;18;15;12;10;12;10;3;8;3;2;0;0
+Sunderland;Blackburn;2;1;38;67;True;22;3;12;2;11;7;9;0;2;2;0;0
+Sunderland;Tottenham;0;1;38;64;False;8;16;4;12;8;6;0;6;2;1;0;0
+Sunderland;QPR;3;2;38;30;False;17;17;13;9;11;10;11;8;2;2;0;0
+Sunderland;Everton;1;1;38;47;True;12;9;8;3;6;14;5;6;0;1;0;0
+Sunderland;Man City;1;0;38;79;True;8;25;5;11;7;6;1;10;1;1;0;0
+Sunderland;Wigan;4;1;38;39;False;10;20;9;10;6;9;6;9;0;1;0;0
+Sunderland;Chelsea;0;1;38;87;False;9;21;4;10;9;9;2;8;1;3;0;0
+Sunderland;Swansea;2;0;38;56;True;7;11;2;4;9;6;2;4;0;0;0;0
+Sunderland;Norwich;3;0;38;86;True;10;12;6;4;6;14;3;6;1;1;0;0
+Sunderland;Stoke;1;0;38;54;False;4;9;2;6;6;12;5;5;1;0;0;1
+Sunderland;Arsenal;1;2;38;75;True;8;10;5;8;7;7;7;3;2;1;0;0
+Sunderland;West Brom;0;4;38;44;False;10;18;4;13;8;6;0;7;1;1;0;0
+Sunderland;Newcastle;1;1;38;39;False;7;24;6;12;14;14;4;19;3;5;1;0
+Sunderland;Liverpool;1;0;38;62;True;6;9;1;5;13;15;3;2;1;1;0;0
+Sunderland;Blackburn;0;2;38;67;False;2;16;0;9;10;13;8;7;1;0;0;0
+Sunderland;QPR;3;1;38;30;True;15;10;8;6;11;9;5;2;2;3;0;1
+Sunderland;Man City;3;3;38;79;False;8;19;4;10;13;11;5;17;1;1;0;0
+Sunderland;Tottenham;0;0;38;64;True;12;15;9;8;12;10;11;4;2;2;0;0
+Sunderland;Everton;0;4;38;47;False;3;22;0;12;12;7;2;5;2;0;0;0
+Sunderland;Wolves;0;0;38;78;True;15;12;6;8;4;11;8;4;0;1;0;0
+Sunderland;Aston Villa;0;0;38;38;False;10;12;5;7;8;11;5;8;2;0;1;0
+Sunderland;Bolton;2;2;38;51;True;12;16;6;9;8;16;7;5;1;0;0;0
+Sunderland;Fulham;1;2;38;52;False;12;20;7;15;13;9;2;8;0;0;0;0
+Sunderland;Man United;0;1;38;70;True;6;17;5;9;14;11;1;9;3;3;0;0
+Sunderland;Charlton;1;3;38;60;True;12;14;8;4;15;17;5;5;2;0;0;1
+Sunderland;Liverpool;0;1;38;62;False;2;15;0;6;20;8;5;5;3;2;1;0
+Sunderland;Man City;1;2;38;79;True;15;12;10;7;10;10;5;3;1;2;0;0
+Sunderland;Wigan;0;1;38;39;False;9;11;7;5;13;11;6;0;3;3;0;0
+Sunderland;Chelsea;0;2;38;87;False;2;9;2;6;10;14;2;4;0;1;0;0
+Sunderland;West Brom;1;1;38;44;True;11;13;6;6;19;11;1;9;0;3;0;0
+Sunderland;Middlesbrough;2;0;38;85;False;4;20;2;11;21;13;2;8;2;3;0;0
+Sunderland;West Ham;1;1;38;47;True;16;6;8;3;12;15;5;3;1;5;0;0
+Sunderland;Man United;1;3;38;70;True;11;15;6;9;12;10;4;5;3;1;0;0
+Sunderland;Newcastle;2;3;38;39;False;10;12;5;9;13;12;3;5;2;2;0;0
+Sunderland;Portsmouth;1;4;38;72;True;5;5;2;5;11;9;11;2;0;1;0;0
+Sunderland;Arsenal;1;3;38;75;False;1;12;1;9;13;11;6;4;1;0;0;0
+Sunderland;Aston Villa;1;3;38;38;True;8;16;6;11;10;13;6;5;2;1;0;0
+Sunderland;Birmingham;0;1;38;63;True;4;10;3;7;7;10;6;2;0;0;0;0
+Sunderland;Liverpool;0;2;38;62;True;8;15;4;11;15;10;3;3;0;2;0;1
+Sunderland;Tottenham;2;3;38;64;False;5;14;2;8;19;8;0;12;2;0;0;0
+Sunderland;Charlton;0;2;38;60;False;14;14;6;8;16;11;6;3;2;0;0;0
+Sunderland;Bolton;0;0;38;51;True;11;8;7;1;16;12;1;4;1;3;0;0
+Sunderland;Everton;0;1;38;47;True;13;9;6;5;6;7;8;5;1;1;0;0
+Sunderland;Fulham;1;2;38;52;False;10;12;7;9;14;9;6;6;2;2;1;0
+Sunderland;Chelsea;1;2;38;87;True;10;21;7;13;13;8;4;3;1;2;0;1
+Sunderland;West Brom;1;0;38;44;False;7;10;2;5;16;13;2;6;3;0;0;0
+Sunderland;Middlesbrough;0;3;38;85;True;14;7;7;4;18;9;2;5;1;1;0;0
+Sunderland;West Ham;0;2;38;47;False;7;11;3;7;11;13;5;6;3;1;1;0
+Sunderland;Tottenham;1;1;38;64;True;9;10;5;7;16;9;5;0;2;1;0;0
+Sunderland;Blackburn;0;2;38;67;False;5;12;1;6;19;16;2;6;2;1;0;0
+Sunderland;Birmingham;0;1;38;63;False;8;14;4;7;14;13;2;6;3;0;0;0
+Sunderland;Man City;1;2;38;79;False;6;15;3;7;16;11;3;6;3;1;1;0
+Sunderland;Wigan;0;1;38;39;True;13;5;9;2;14;13;5;2;1;0;0;0
+Sunderland;Bolton;0;2;38;51;False;6;16;3;7;18;9;6;7;4;1;0;0
+Sunderland;Blackburn;0;1;38;67;True;10;7;6;4;12;17;4;4;4;1;0;0
+Sunderland;Everton;2;2;38;47;False;16;16;8;8;10;8;4;4;0;0;0;0
+Sunderland;Man United;0;0;38;70;False;12;24;3;11;13;6;2;16;1;0;0;0
+Sunderland;Newcastle;1;4;38;39;True;12;9;6;4;16;21;13;1;1;2;0;0
+Sunderland;Portsmouth;1;2;38;72;False;7;23;6;15;15;9;5;8;3;2;0;0
+Sunderland;Arsenal;0;3;38;75;True;7;7;2;4;17;8;5;3;3;0;0;0
+Sunderland;Fulham;2;1;38;52;True;3;10;3;2;18;6;10;3;4;4;0;0
+Sunderland;Aston Villa;1;2;38;38;False;14;16;7;9;10;11;7;7;2;4;0;0
+Sunderland;Bolton;1;0;38;51;False;20;11;13;3;10;16;7;4;1;2;0;0
+Sunderland;Chelsea;1;3;38;87;True;4;20;3;9;14;10;1;14;2;2;0;0
+Sunderland;Blackburn;2;1;38;67;True;8;18;5;5;12;14;0;10;2;1;0;0
+Sunderland;Stoke;0;1;38;54;False;9;13;6;7;8;9;10;10;2;0;0;0
+Sunderland;Hull;4;1;38;35;True;7;6;4;5;18;15;7;8;2;2;0;0
+Sunderland;Burnley;1;3;38;33;False;8;10;5;3;15;4;4;4;3;0;0;0
+Sunderland;Wolves;5;2;38;78;True;10;15;8;11;18;11;7;8;1;3;0;0
+Sunderland;Man United;2;2;38;70;False;4;17;3;9;15;11;1;14;3;2;1;0
+Sunderland;Liverpool;1;0;38;62;True;13;15;7;6;20;17;1;7;2;1;0;0
+Sunderland;Birmingham;1;2;38;63;False;14;19;6;13;14;9;8;6;1;3;0;0
+Sunderland;West Ham;2;2;38;47;True;17;15;7;9;12;16;7;3;3;3;1;1
+Sunderland;Tottenham;0;2;38;64;False;14;10;6;8;19;10;4;4;2;1;0;0
+Sunderland;Arsenal;1;0;38;75;True;5;9;1;3;10;10;2;6;2;1;0;0
+Sunderland;Wigan;0;1;38;39;False;9;16;4;10;14;12;8;5;3;0;0;0
+Sunderland;Fulham;0;1;38;52;False;8;16;5;5;12;9;8;4;2;1;0;0
+Sunderland;Portsmouth;1;1;38;72;True;16;9;9;6;12;14;9;6;4;3;0;1
+Sunderland;Aston Villa;0;2;38;38;True;15;11;5;4;16;14;7;1;2;2;1;0
+Sunderland;Man City;3;4;38;79;False;7;11;5;5;8;13;4;6;2;2;1;0
+Sunderland;Everton;1;1;38;47;True;10;12;6;4;17;16;4;12;1;3;0;0
+Sunderland;Blackburn;2;2;38;67;False;13;21;8;11;20;6;4;4;4;1;0;0
+Sunderland;Chelsea;2;7;38;87;False;7;23;3;13;10;4;1;15;1;0;0;0
+Sunderland;Everton;0;2;38;47;False;5;11;3;7;19;10;8;3;1;0;0;0
+Sunderland;Stoke;0;0;38;54;True;6;4;5;3;7;16;7;3;2;3;0;0
+Sunderland;Wigan;1;1;38;39;True;11;14;8;6;12;14;2;3;4;5;0;0
+Sunderland;Portsmouth;1;1;38;72;False;7;12;2;6;15;10;4;8;1;3;2;1
+Sunderland;Arsenal;0;2;38;75;False;6;16;4;10;10;8;1;7;5;1;0;0
+Sunderland;Fulham;0;0;38;52;True;12;3;5;1;15;16;2;2;3;3;0;0
+Sunderland;Bolton;4;0;38;51;True;12;7;7;2;14;10;2;7;2;2;0;1
+Sunderland;Man City;1;1;38;79;True;12;13;7;9;12;10;3;7;2;4;0;0
+Sunderland;Birmingham;3;1;38;63;True;11;21;9;14;8;8;7;10;0;1;0;0
+Sunderland;Aston Villa;1;1;38;38;False;10;11;5;4;7;5;7;6;0;0;0;0
+Sunderland;Liverpool;0;3;38;62;False;7;25;2;16;9;11;2;9;1;0;0;0
+Sunderland;Tottenham;3;1;38;64;True;11;12;10;9;16;15;6;6;2;0;0;0
+Sunderland;West Ham;0;1;38;47;False;9;10;7;6;20;12;7;2;3;1;0;0
+Sunderland;Burnley;2;1;38;33;True;16;9;11;4;14;17;3;3;3;2;0;0
+Sunderland;Hull;1;0;38;35;False;10;14;5;8;17;12;6;3;3;1;1;1
+Sunderland;Man United;0;1;38;70;True;10;14;2;9;10;9;9;4;3;2;0;0
+Sunderland;Wolves;1;2;38;78;False;11;14;5;7;19;11;1;4;2;1;2;0
+Sunderland;Arsenal;0;0;38;75;False;4;3;12;2;7;8;0;0;0;0;1.4;0
+Sunderland;Swansea;2;2;38;56;False;10;4;11;3;8;7;1;0;1;1;2.2;0
+Sunderland;Liverpool;1;1;38;62;True;20;4;9;18;10;2;7;1;2;0;0;3.4
+Sunderland;West Ham;1;1;38;47;False;11;4;12;2;10;10;2;1;0;1;2.1;0
+Sunderland;Wigan;1;0;38;39;True;8;6;3;20;16;8;1;2;5;0;1;2
+Sunderland;Man City;0;3;38;79;False;16;8;10;6;15;10;0;4;0;3;1.29;0
+Sunderland;Newcastle;1;1;38;39;True;10;6;7;14;15;8;4;0;4;0;1;2.5
+Sunderland;Stoke;0;0;38;54;False;6;6;12;3;7;6;2;3;0;2;1.95;0
+Sunderland;Aston Villa;0;1;38;38;True;9;1;6;10;17;6;7;2;3;0;0;2.1
+Sunderland;Everton;1;2;38;47;False;10;6;14;4;6;14;1;2;0;3;1.44;0
+Sunderland;Fulham;3;1;38;52;False;13;12;9;9;4;13;1;4;1;3;1.67;0
+Sunderland;West Brom;2;4;38;44;True;11;12;6;12;15;7;2;2;3;0;0;2.5
+Sunderland;QPR;0;0;38;30;True;13;8;9;10;15;5;8;1;3;0;0;2.25
+Sunderland;Norwich;1;2;38;86;False;5;16;11;6;2;16;0;6;0;2;2.1;0
+Sunderland;Chelsea;1;3;38;87;True;11;10;5;11;14;11;1;1;3;0;0;4.75
+Sunderland;Reading;3;0;38;50;True;12;11;5;8;11;6;8;2;1;0;0;2
+Sunderland;Man United;1;3;38;70;False;6;13;13;10;9;10;0;9;0;0;1.2;0
+Sunderland;Southampton;1;0;38;60;False;7;10;11;6;8;15;0;5;0;3;2;0
+Sunderland;Man City;1;0;38;79;True;19;6;12;14;16;3;7;1;3;0;0;6.5
+Sunderland;Tottenham;1;2;38;64;True;18;6;14;9;15;3;8;1;3;0;0;3.5
+Sunderland;Liverpool;0;3;38;62;False;16;6;8;5;9;5;0;5;0;1;1.4;0
+Sunderland;West Ham;3;0;38;47;True;9;14;4;10;13;4;6;0;3;0;0;2.38
+Sunderland;Wigan;3;2;38;39;False;11;10;10;5;9;16;3;0;0;2;2.15;0
+Sunderland;Swansea;0;0;38;56;True;18;2;8;11;11;3;4;1;2;0;0;2.5
+Sunderland;Reading;1;2;38;50;False;5;10;12;6;6;15;1;8;0;3;2.5;0
+Sunderland;Arsenal;0;1;38;75;True;18;7;9;6;13;11;2;3;2;0;1;4.5
+Sunderland;West Brom;1;2;38;44;False;7;10;13;6;5;9;2;5;0;1;2.05;0
+Sunderland;Fulham;2;2;38;52;True;7;6;4;9;14;7;3;1;3;0;0;2.4
+Sunderland;QPR;1;3;38;30;False;8;7;4;3;4;19;0;5;0;2;2.25;0
+Sunderland;Norwich;1;1;38;86;True;7;8;3;11;11;5;9;1;3;0;1;2.05
+Sunderland;Man United;0;1;38;70;True;10;4;6;11;9;3;6;3;1;0;0;6
+Sunderland;Chelsea;1;2;38;87;False;7;7;9;3;8;15;0;5;0;2;1.36;0
+Sunderland;Newcastle;3;0;38;39;False;9;8;14;7;10;7;3;9;0;2;1.95;0
+Sunderland;Everton;1;0;38;47;True;8;4;5;6;15;3;10;1;2;0;0;3.4
+Sunderland;Aston Villa;1;6;38;38;False;15;7;10;4;4;15;0;4;0;3;2.3;1
+Sunderland;Stoke;1;1;38;54;True;11;7;7;6;12;5;6;2;2;1;0;2.1
+Sunderland;Southampton;1;1;38;60;True;15;5;10;9;10;3;10;0;2;0;0;2.8
+Sunderland;Tottenham;0;1;38;64;False;19;6;6;4;14;12;1;1;0;3;1.29;1

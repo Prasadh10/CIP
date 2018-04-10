@@ -1,0 +1,401 @@
+Tottenham;West Ham;1;0;64;47;False;10;18;4;4;10;12;5;8;0;1;1;1
+Tottenham;QPR;4;0;64;30;True;18;9;5;1;12;6;7;6;0;1;0;0
+Tottenham;Liverpool;0;3;64;62;True;7;17;1;8;14;11;7;3;0;4;0;0
+Tottenham;Sunderland;2;2;64;38;False;15;6;6;1;13;10;5;5;1;5;0;0
+Tottenham;West Brom;0;1;64;44;True;7;10;1;4;12;7;9;7;2;2;0;0
+Tottenham;Arsenal;1;1;64;75;False;6;16;4;6;16;7;5;15;6;3;0;0
+Tottenham;Southampton;1;0;64;60;True;9;7;4;3;15;9;10;5;2;1;0;0
+Tottenham;Man City;1;4;64;79;False;19;20;7;12;9;11;4;3;2;1;1;0
+Tottenham;Newcastle;1;2;64;39;True;17;8;2;2;9;12;10;2;2;4;0;0
+Tottenham;Aston Villa;2;1;64;38;False;18;12;7;1;11;12;9;3;3;3;0;1
+Tottenham;Stoke;1;2;64;54;True;14;11;4;4;20;13;5;5;3;2;1;0
+Tottenham;Hull;2;1;64;35;False;23;10;6;2;9;15;9;3;1;3;0;1
+Tottenham;Everton;2;1;64;47;True;13;10;6;5;15;5;3;4;5;1;0;0
+Tottenham;Chelsea;0;3;64;87;False;10;12;2;8;9;9;6;1;1;1;0;0
+Tottenham;Crystal Palace;0;0;64;48;True;14;16;3;4;11;10;2;12;1;0;0;0
+Tottenham;Swansea;2;1;64;56;False;10;15;4;3;17;7;9;7;4;3;0;0
+Tottenham;Burnley;2;1;64;33;True;23;9;6;5;9;8;9;6;1;0;0;0
+Tottenham;Leicester;2;1;64;41;False;8;22;3;6;14;10;1;11;2;1;0;0
+Tottenham;Man United;0;0;64;70;True;9;9;4;5;11;19;3;6;2;4;0;0
+Tottenham;Chelsea;5;3;64;87;True;11;19;8;7;14;10;5;3;3;1;0;0
+Tottenham;Crystal Palace;1;2;64;48;False;9;21;5;7;14;9;6;4;3;5;0;0
+Tottenham;Sunderland;2;1;64;38;True;25;8;8;4;14;8;6;6;1;2;0;0
+Tottenham;West Brom;3;0;64;44;False;14;13;4;4;13;8;3;6;1;2;0;0
+Tottenham;Arsenal;2;1;64;75;True;23;7;8;3;8;12;10;3;3;5;0;0
+Tottenham;Liverpool;2;3;64;62;False;14;16;5;7;17;13;7;5;6;3;0;0
+Tottenham;West Ham;2;2;64;47;True;27;12;8;5;6;12;7;9;0;2;0;0
+Tottenham;Swansea;3;2;64;56;True;20;10;7;5;14;7;6;4;1;0;0;0
+Tottenham;QPR;2;1;64;30;False;13;17;6;6;12;15;5;3;2;1;0;0
+Tottenham;Man United;0;3;64;70;False;5;11;1;3;10;12;2;4;1;1;0;0
+Tottenham;Leicester;4;3;64;41;True;10;14;4;5;8;9;4;4;2;1;0;0
+Tottenham;Burnley;0;0;64;33;False;12;15;2;4;5;9;3;5;0;2;0;0
+Tottenham;Aston Villa;0;1;64;38;True;14;10;3;3;11;12;9;6;3;2;0;1
+Tottenham;Newcastle;3;1;64;39;False;14;11;8;5;13;11;3;4;4;2;0;0
+Tottenham;Southampton;2;2;64;60;False;7;13;2;4;10;9;3;8;3;1;0;0
+Tottenham;Man City;0;1;64;79;True;21;15;5;4;6;11;8;7;3;4;0;0
+Tottenham;Stoke;0;3;64;54;False;9;17;3;9;12;14;8;6;0;0;1;0
+Tottenham;Hull;2;0;64;35;True;10;14;3;2;10;6;6;8;3;1;0;0
+Tottenham;Everton;1;0;64;47;False;16;9;3;1;8;12;5;3;2;1;0;0
+Tottenham;Middlesbrough;1;2;64;85;False;8;14;5;10;12;11;9;7;2;1;0;0
+Tottenham;Sunderland;1;2;64;38;True;18;12;11;7;12;12;12;6;1;2;0;0
+Tottenham;Chelsea;1;1;64;87;False;6;12;6;3;13;10;8;5;0;3;0;0
+Tottenham;Aston Villa;1;2;64;38;True;17;17;10;13;15;12;12;8;1;4;0;0
+Tottenham;Wigan;0;0;64;39;True;11;14;4;6;13;12;3;4;2;2;0;0
+Tottenham;Portsmouth;0;2;64;72;False;15;8;8;6;13;18;6;3;3;4;0;1
+Tottenham;Hull;0;1;64;35;True;27;10;16;6;15;15;12;0;4;2;0;0
+Tottenham;Stoke;1;2;64;54;False;11;7;6;3;12;12;1;6;2;1;2;0
+Tottenham;Bolton;2;0;64;51;True;19;10;9;3;9;16;3;4;0;3;0;1
+Tottenham;Arsenal;4;4;64;75;False;9;20;6;12;17;8;1;9;4;1;0;0
+Tottenham;Liverpool;2;1;64;62;True;8;14;4;6;18;13;4;4;1;2;0;0
+Tottenham;Man City;2;1;64;79;False;14;9;9;7;13;12;5;4;2;1;1;2
+Tottenham;Fulham;1;2;64;52;False;7;16;3;14;10;2;3;10;0;1;0;0
+Tottenham;Blackburn;1;0;64;67;True;16;9;7;6;15;15;6;6;2;3;0;1
+Tottenham;Everton;0;1;64;47;True;14;8;6;6;9;16;5;1;1;3;0;0
+Tottenham;West Ham;2;0;64;47;False;17;11;12;4;16;13;5;7;0;2;0;0
+Tottenham;Man United;0;0;64;70;True;11;15;6;12;10;9;4;14;1;1;0;0
+Tottenham;Newcastle;1;2;64;39;False;11;7;6;4;7;9;7;4;2;3;0;0
+Tottenham;Fulham;0;0;64;52;True;14;10;7;7;7;11;4;2;0;1;0;0
+Tottenham;West Brom;0;2;64;44;False;4;17;3;11;12;13;4;8;2;3;1;0
+Tottenham;Wigan;0;1;64;39;False;6;13;3;5;13;13;3;8;3;3;0;0
+Tottenham;Portsmouth;1;1;64;72;True;26;11;15;4;6;10;8;4;0;2;0;0
+Tottenham;Stoke;3;1;64;54;True;22;6;14;3;19;21;7;4;2;3;0;0
+Tottenham;Bolton;2;3;64;51;False;13;13;10;7;14;11;8;2;1;0;0;0
+Tottenham;Arsenal;0;0;64;75;True;16;4;6;1;14;14;6;4;1;2;0;1
+Tottenham;Hull;2;1;64;35;False;9;12;6;4;7;11;13;11;1;2;0;0
+Tottenham;Middlesbrough;4;0;64;85;True;12;15;7;6;7;6;4;8;0;1;0;0
+Tottenham;Sunderland;1;1;64;38;False;13;8;8;3;9;17;1;4;2;3;0;0
+Tottenham;Aston Villa;2;1;64;38;False;10;11;9;5;9;12;5;9;3;1;0;0
+Tottenham;Chelsea;1;0;64;87;True;8;15;4;9;14;8;8;7;2;2;0;0
+Tottenham;Blackburn;1;2;64;67;False;9;11;3;6;9;13;7;4;1;1;1;0
+Tottenham;West Ham;1;0;64;47;True;14;8;9;6;9;12;10;1;1;4;0;0
+Tottenham;Newcastle;1;0;64;39;True;22;8;18;3;13;15;4;7;1;2;0;0
+Tottenham;Man United;2;5;64;70;False;6;21;4;14;10;14;2;6;3;3;0;0
+Tottenham;West Brom;1;0;64;44;True;16;10;9;7;6;7;9;7;1;1;0;0
+Tottenham;Everton;0;0;64;47;False;4;13;2;5;10;16;5;4;3;2;0;0
+Tottenham;Man City;2;1;64;79;True;11;9;4;3;5;7;4;7;0;1;0;0
+Tottenham;Liverpool;1;3;64;62;False;8;20;4;9;4;14;2;9;1;0;0;0
+Tottenham;Man City;0;0;64;79;True;22;11;18;7;13;16;10;3;0;2;0;0
+Tottenham;Stoke;2;1;64;54;False;7;15;6;10;4;15;2;6;1;3;0;0
+Tottenham;Wigan;0;1;64;39;True;12;13;7;5;10;11;16;7;3;2;0;0
+Tottenham;West Brom;1;1;64;44;False;16;15;9;8;9;12;4;9;1;2;0;0
+Tottenham;Wolves;3;1;64;78;True;20;5;11;2;7;11;5;4;3;3;0;0
+Tottenham;West Ham;0;1;64;47;False;17;22;11;15;11;10;7;14;0;2;0;0
+Tottenham;Aston Villa;2;1;64;38;True;19;13;10;4;12;19;10;4;1;3;0;0
+Tottenham;Fulham;2;1;64;52;False;14;11;6;5;10;9;11;4;1;1;0;0
+Tottenham;Everton;1;1;64;47;True;13;7;8;3;15;14;4;4;3;1;0;0
+Tottenham;Man United;0;2;64;70;False;11;18;5;10;10;12;4;1;3;0;0;0
+Tottenham;Bolton;2;4;64;51;False;11;18;6;8;9;13;6;7;0;1;0;0
+Tottenham;Sunderland;1;1;64;38;True;20;8;12;4;6;15;17;3;2;1;0;0
+Tottenham;Blackburn;4;2;64;67;True;20;12;12;8;11;11;12;6;2;2;0;0
+Tottenham;Arsenal;3;2;64;75;False;10;12;6;7;16;17;6;2;1;3;0;0
+Tottenham;Liverpool;2;1;64;62;True;20;12;13;8;6;16;5;8;0;5;0;0
+Tottenham;Birmingham;1;1;64;63;False;10;13;5;5;7;14;11;6;1;1;0;0
+Tottenham;Chelsea;1;1;64;87;True;10;13;3;7;9;13;1;7;2;2;0;0
+Tottenham;Aston Villa;2;1;64;38;False;13;26;8;15;11;13;4;8;3;3;1;0
+Tottenham;Newcastle;2;0;64;39;True;13;12;8;8;9;16;9;7;2;4;1;0
+Tottenham;Fulham;1;0;64;52;True;13;12;9;4;11;9;5;1;2;1;0;0
+Tottenham;Everton;1;2;64;47;False;13;19;5;12;12;16;3;4;0;1;0;0
+Tottenham;Man United;0;0;64;70;True;16;7;6;4;9;18;8;2;2;4;0;1
+Tottenham;Newcastle;1;1;64;39;False;14;13;9;6;7;13;4;1;0;0;0;0
+Tottenham;Blackburn;1;0;64;67;False;6;17;5;9;11;14;4;4;1;2;0;0
+Tottenham;Bolton;2;1;64;51;True;13;8;7;3;13;11;6;7;1;3;0;0
+Tottenham;Sunderland;2;1;64;38;False;11;16;5;10;12;14;3;2;4;2;0;0
+Tottenham;Blackpool;1;3;64;26;False;25;8;10;4;8;11;7;1;0;2;0;0
+Tottenham;Wolves;3;3;64;78;False;15;13;10;4;11;10;4;7;3;0;0;0
+Tottenham;West Ham;0;0;64;47;True;26;11;14;5;6;13;6;2;0;4;0;0
+Tottenham;Wigan;0;0;64;39;False;10;14;6;5;13;11;2;8;1;1;0;0
+Tottenham;Stoke;3;2;64;54;True;9;10;8;5;11;16;10;5;1;3;0;0
+Tottenham;Arsenal;3;3;64;75;True;16;13;9;9;8;13;7;6;0;3;0;0
+Tottenham;West Brom;2;2;64;44;True;19;10;9;4;8;9;11;1;1;1;0;0
+Tottenham;Chelsea;1;2;64;87;False;12;16;7;10;11;11;5;6;1;3;0;0
+Tottenham;Blackpool;1;1;64;26;True;20;13;11;7;5;13;7;6;3;2;0;0
+Tottenham;Man City;0;1;64;79;False;14;7;7;4;8;7;8;2;1;1;0;0
+Tottenham;Liverpool;2;0;64;62;False;8;10;4;2;7;13;5;11;1;2;0;0
+Tottenham;Birmingham;2;1;64;63;True;22;7;16;3;5;15;7;5;0;3;0;0
+Tottenham;Bolton;0;2;64;51;False;9;8;6;6;22;19;3;6;1;0;0;0
+Tottenham;Sheffield United;2;0;64;60;True;18;6;13;3;5;9;6;4;0;1;0;0
+Tottenham;Everton;0;2;64;47;True;15;6;6;2;9;12;7;2;1;1;0;1
+Tottenham;Man United;0;1;64;70;False;9;10;4;5;17;12;4;5;2;2;0;0
+Tottenham;Fulham;0;0;64;52;True;18;8;8;3;11;20;12;2;2;2;0;0
+Tottenham;Liverpool;0;3;64;62;False;5;14;1;6;9;12;0;6;0;1;0;0
+Tottenham;Portsmouth;2;1;64;72;True;8;9;6;6;8;10;6;10;0;0;0;0
+Tottenham;Aston Villa;1;1;64;38;False;10;12;5;6;11;13;2;2;1;0;1;0
+Tottenham;West Ham;1;0;64;47;True;13;5;5;2;14;15;9;9;3;4;0;0
+Tottenham;Watford;0;0;64;69;False;11;9;8;2;14;14;7;7;1;3;0;0
+Tottenham;Chelsea;2;1;64;87;True;8;17;3;10;15;15;7;10;3;5;0;1
+Tottenham;Reading;1;3;64;50;False;9;8;3;4;7;14;2;7;1;1;0;0
+Tottenham;Blackburn;1;1;64;67;False;13;6;5;3;16;17;5;4;1;0;1;1
+Tottenham;Wigan;3;1;64;39;True;11;10;6;5;12;17;3;2;2;4;0;0
+Tottenham;Arsenal;0;3;64;75;False;7;6;4;5;15;15;2;3;2;1;0;0
+Tottenham;Middlesbrough;2;1;64;85;True;22;6;11;3;10;16;7;5;0;3;1;1
+Tottenham;Charlton;5;1;64;60;True;13;12;9;3;7;11;5;9;2;4;0;0
+Tottenham;Man City;2;1;64;79;False;11;10;7;4;11;13;3;6;0;1;0;0
+Tottenham;Newcastle;1;3;64;39;False;17;12;6;9;18;12;5;5;1;1;0;0
+Tottenham;Aston Villa;2;1;64;38;True;12;9;10;7;12;14;4;4;1;2;0;0
+Tottenham;Liverpool;0;1;64;62;True;9;10;3;5;5;21;2;3;0;0;0;0
+Tottenham;Portsmouth;1;1;64;72;False;9;15;7;9;12;12;6;10;4;1;0;0
+Tottenham;Newcastle;2;3;64;39;True;25;12;17;7;8;9;5;3;1;4;0;0
+Tottenham;Fulham;1;1;64;52;False;9;9;4;3;16;14;6;5;2;3;0;1
+Tottenham;Man United;0;4;64;70;True;10;12;5;7;8;16;5;7;2;3;0;0
+Tottenham;Sheffield United;1;2;64;60;False;6;16;1;5;11;14;3;13;5;3;0;0
+Tottenham;Everton;2;1;64;47;False;8;10;4;3;14;7;1;5;1;2;0;0
+Tottenham;Bolton;4;1;64;51;True;14;10;10;6;2;17;5;5;0;4;1;0
+Tottenham;West Ham;4;3;64;47;False;12;12;7;6;12;15;3;6;1;6;0;0
+Tottenham;Watford;3;1;64;69;True;17;2;11;2;5;8;5;4;0;0;0;0
+Tottenham;Reading;1;0;64;50;True;18;6;7;3;7;6;5;7;1;0;0;0
+Tottenham;Chelsea;0;1;64;87;False;6;11;5;8;11;13;7;11;1;2;0;0
+Tottenham;Wigan;3;3;64;39;False;10;21;6;11;6;18;5;5;0;3;0;0
+Tottenham;Arsenal;2;2;64;75;True;7;17;3;5;10;6;4;6;2;2;0;0
+Tottenham;Middlesbrough;3;2;64;85;False;11;16;5;8;9;11;3;7;1;1;0;0
+Tottenham;Charlton;2;0;64;60;False;9;7;6;4;4;7;5;11;0;0;0;0
+Tottenham;Blackburn;1;1;64;67;True;15;10;7;4;4;17;6;6;0;3;0;1
+Tottenham;Man City;2;1;64;79;True;8;10;3;5;11;13;6;6;1;1;0;0
+Tottenham;Crystal Palace;1;0;64;48;False;17;5;2;3;9;6;7;3;0;1;0;0
+Tottenham;Swansea;1;0;64;56;True;19;7;5;5;10;15;8;3;1;4;0;0
+Tottenham;Arsenal;0;1;64;75;False;14;12;4;5;14;15;6;3;2;2;0;0
+Tottenham;Norwich;2;0;64;86;True;23;4;7;1;2;12;8;1;1;3;0;0
+Tottenham;Cardiff;1;0;64;62;False;29;6;12;0;7;5;12;2;4;1;0;0
+Tottenham;Chelsea;1;1;64;87;True;12;11;4;5;14;14;4;5;5;1;0;1
+Tottenham;West Ham;0;3;64;47;True;14;16;4;5;5;9;6;7;0;0;0;0
+Tottenham;Aston Villa;2;0;64;38;False;13;15;6;2;12;13;7;4;4;3;0;0
+Tottenham;Hull;1;0;64;35;True;15;10;6;4;13;10;6;4;3;3;0;0
+Tottenham;Everton;0;0;64;47;False;16;8;6;1;9;11;4;7;1;4;0;0
+Tottenham;Newcastle;0;1;64;39;True;31;8;14;4;5;15;11;4;1;2;0;0
+Tottenham;Man City;0;6;64;79;False;13;15;5;10;11;7;7;4;3;1;0;0
+Tottenham;Man United;2;2;64;70;True;10;8;4;3;9;15;7;7;1;3;0;0
+Tottenham;Fulham;2;1;64;52;False;18;16;5;6;16;7;7;9;1;2;0;0
+Tottenham;Sunderland;2;1;64;38;False;22;11;5;4;9;14;10;4;0;2;0;0
+Tottenham;Liverpool;0;5;64;62;True;9;21;0;10;17;15;2;9;3;0;1;0
+Tottenham;Southampton;3;2;64;60;False;13;12;3;5;18;10;5;2;1;1;0;0
+Tottenham;West Brom;1;1;64;44;True;20;7;3;4;8;12;12;2;3;2;0;0
+Tottenham;Stoke;3;0;64;54;True;20;2;7;1;6;14;6;1;2;2;0;0
+Tottenham;Man United;2;1;64;70;False;9;16;4;6;7;7;2;13;1;2;0;0
+Tottenham;Crystal Palace;2;0;64;48;True;10;14;4;2;12;12;5;11;1;2;0;0
+Tottenham;Swansea;3;1;64;56;False;11;13;5;3;9;6;2;8;1;2;0;0
+Tottenham;Man City;1;5;64;79;True;4;24;2;10;11;10;3;5;1;4;1;0
+Tottenham;Hull;1;1;64;35;False;19;9;3;4;9;13;10;4;1;1;0;0
+Tottenham;Everton;1;0;64;47;True;8;11;2;3;9;13;9;7;1;0;0;0
+Tottenham;Newcastle;4;0;64;39;False;15;13;8;5;11;6;6;8;0;0;0;0
+Tottenham;Norwich;0;1;64;86;False;9;13;2;3;15;8;3;5;3;1;0;0
+Tottenham;Cardiff;1;0;64;62;True;15;8;6;2;11;12;4;7;1;3;0;0
+Tottenham;Chelsea;0;4;64;87;False;6;12;2;4;18;11;4;5;3;2;1;0
+Tottenham;Arsenal;0;1;64;75;True;17;7;2;3;18;11;5;2;5;3;0;0
+Tottenham;Southampton;3;2;64;60;True;15;12;6;4;9;9;7;3;1;2;0;0
+Tottenham;Liverpool;0;4;64;62;False;15;11;4;5;9;9;7;5;2;0;0;0
+Tottenham;Sunderland;5;1;64;38;True;29;8;11;4;12;8;8;2;0;2;0;0
+Tottenham;West Brom;3;3;64;44;False;20;6;8;5;8;11;2;2;2;4;0;0
+Tottenham;Fulham;3;1;64;52;True;14;11;5;4;8;11;4;5;0;1;0;0
+Tottenham;Stoke;1;0;64;54;False;16;17;4;3;6;11;3;4;2;1;0;1
+Tottenham;West Ham;0;2;64;47;False;12;20;3;8;16;10;6;10;4;0;1;0
+Tottenham;Aston Villa;3;0;64;38;True;12;4;6;1;11;11;5;1;1;0;0;0
+Tottenham;Liverpool;1;1;64;62;True;14;16;7;8;17;11;3;8;3;1;0;0
+Tottenham;Newcastle;1;0;64;39;False;15;13;8;6;12;10;3;13;2;1;0;0
+Tottenham;West Brom;1;1;64;44;False;12;4;6;2;10;13;5;4;0;0;0;0
+Tottenham;Birmingham;1;0;64;63;True;6;10;3;2;15;5;2;8;4;1;0;0
+Tottenham;Norwich;0;0;64;86;True;15;7;7;2;17;9;13;5;2;1;0;0
+Tottenham;Chelsea;0;0;64;87;False;6;20;3;8;13;16;6;9;2;1;0;0
+Tottenham;Man United;0;1;64;70;True;11;6;5;4;9;10;3;3;1;0;0;0
+Tottenham;Everton;1;0;64;47;False;8;10;2;4;13;9;2;11;2;1;0;0
+Tottenham;Portsmouth;0;1;64;72;False;16;11;7;6;11;12;5;3;0;0;0;0
+Tottenham;Bolton;1;2;64;51;True;8;6;5;4;14;17;2;3;0;0;0;0
+Tottenham;Fulham;0;2;64;52;False;5;8;1;4;9;11;4;5;1;0;0;0
+Tottenham;Charlton;2;3;64;60;True;19;3;11;3;6;13;5;1;0;2;0;1
+Tottenham;Arsenal;4;5;64;75;True;10;10;7;6;20;9;3;4;3;0;0;0
+Tottenham;Aston Villa;0;1;64;38;False;11;9;6;5;11;17;5;5;0;0;0;0
+Tottenham;Middlesbrough;2;0;64;85;True;14;8;9;3;11;13;5;7;1;2;0;1
+Tottenham;Blackburn;1;0;64;67;False;10;12;8;7;11;11;5;7;1;3;0;0
+Tottenham;Man City;1;0;64;79;False;5;8;2;3;9;8;2;6;2;1;0;0
+Tottenham;Southampton;5;1;64;60;True;18;7;12;4;9;13;6;3;0;2;0;0
+Tottenham;Norwich;2;0;64;86;False;16;13;9;8;9;11;8;10;0;1;0;0
+Tottenham;Crystal Palace;1;1;64;48;True;17;11;14;7;10;15;5;6;1;0;0;0
+Tottenham;Everton;5;2;64;47;True;14;6;12;3;8;13;6;4;0;0;0;0
+Tottenham;Man United;0;0;64;70;False;7;23;5;16;13;11;2;8;2;1;0;0
+Tottenham;Chelsea;0;2;64;87;True;12;12;4;5;14;12;4;7;2;4;0;0
+Tottenham;Crystal Palace;0;3;64;48;False;12;8;6;7;14;9;4;5;2;1;0;0
+Tottenham;Bolton;1;3;64;51;False;11;15;5;9;17;9;6;4;2;0;1;0
+Tottenham;Portsmouth;3;1;64;72;True;18;6;10;3;10;8;9;2;0;0;0;0
+Tottenham;Fulham;2;0;64;52;True;18;8;8;5;6;13;13;2;0;1;0;0
+Tottenham;Southampton;0;1;64;60;False;13;9;8;4;11;7;10;4;2;1;0;0
+Tottenham;Charlton;0;2;64;60;False;7;5;4;2;16;15;2;5;4;1;0;0
+Tottenham;Man City;2;1;64;79;True;12;11;9;7;13;13;6;4;2;3;0;0
+Tottenham;Birmingham;1;1;64;63;False;9;14;5;7;10;6;3;3;1;0;0;0
+Tottenham;Newcastle;1;0;64;39;True;19;6;6;3;9;15;4;7;2;2;0;0
+Tottenham;Liverpool;2;2;64;62;False;9;18;6;7;7;5;3;12;0;0;0;0
+Tottenham;West Brom;1;1;64;44;True;15;10;5;4;12;12;7;3;2;0;0;0
+Tottenham;Arsenal;0;1;64;75;False;7;12;1;3;15;17;7;4;4;0;0;0
+Tottenham;Aston Villa;5;1;64;38;True;20;4;14;3;13;17;9;3;1;2;0;0
+Tottenham;Middlesbrough;0;1;64;85;False;5;16;2;8;10;14;3;4;3;1;0;0
+Tottenham;Blackburn;0;0;64;67;True;11;12;7;8;10;14;5;7;2;2;0;0
+Tottenham;Sunderland;0;1;64;38;False;6;9;3;4;14;14;2;7;1;1;0;0
+Tottenham;Everton;1;3;64;47;True;14;16;8;10;16;9;9;4;2;0;0;0
+Tottenham;Derby;4;0;64;77;True;25;4;14;2;8;14;9;3;0;4;0;0
+Tottenham;Man United;0;1;64;70;False;10;14;3;5;7;15;4;4;3;2;0;0
+Tottenham;Fulham;3;3;64;52;False;13;13;8;7;11;13;14;6;0;1;0;0
+Tottenham;Arsenal;1;3;64;75;True;14;16;5;10;28;22;8;4;2;2;0;0
+Tottenham;Bolton;1;1;64;51;False;10;5;7;4;15;14;11;4;2;0;0;0
+Tottenham;Aston Villa;4;4;64;38;True;19;7;12;7;10;13;13;3;2;3;0;0
+Tottenham;Liverpool;2;2;64;62;False;11;21;6;9;10;18;3;5;1;0;0;0
+Tottenham;Newcastle;1;3;64;39;False;11;15;4;7;7;12;5;5;2;2;0;0
+Tottenham;Blackburn;1;2;64;67;True;9;9;6;4;11;14;10;2;4;3;0;0
+Tottenham;Middlesbrough;1;1;64;85;False;9;5;4;3;8;13;7;6;0;1;0;0
+Tottenham;Wigan;4;0;64;39;True;19;6;8;2;8;16;5;2;0;2;0;0
+Tottenham;West Ham;1;1;64;47;False;9;14;5;9;5;33;8;7;4;3;0;0
+Tottenham;Birmingham;2;3;64;63;True;17;7;9;3;10;13;12;3;0;1;1;0
+Tottenham;Man City;2;1;64;79;True;12;7;8;3;7;13;2;6;2;3;0;1
+Tottenham;Portsmouth;1;0;64;72;False;12;9;5;5;13;22;4;4;2;3;0;0
+Tottenham;Arsenal;1;2;64;75;False;10;9;5;5;10;10;1;5;3;1;0;0
+Tottenham;Fulham;5;1;64;52;True;12;9;8;4;10;17;3;5;1;4;0;1
+Tottenham;Reading;6;4;64;50;True;14;11;12;8;9;12;3;6;0;3;0;0
+Tottenham;Aston Villa;1;2;64;38;False;9;14;6;4;16;5;2;8;3;0;0;0
+Tottenham;Chelsea;0;2;64;87;False;6;8;2;6;11;17;7;4;4;2;0;0
+Tottenham;Sunderland;2;0;64;38;True;17;14;13;8;13;13;6;7;2;2;0;0
+Tottenham;Everton;0;0;64;47;False;5;11;4;6;12;14;2;7;1;1;0;0
+Tottenham;Man United;1;1;64;70;True;10;16;8;10;18;10;8;9;3;7;0;0
+Tottenham;Derby;3;0;64;77;False;13;10;8;6;10;14;9;7;1;3;0;0
+Tottenham;Birmingham;1;4;64;63;False;19;13;10;10;10;14;6;5;0;1;0;0
+Tottenham;West Ham;4;0;64;47;True;18;8;11;4;6;17;8;4;0;2;0;1
+Tottenham;Man City;1;2;64;79;False;12;13;7;8;3;11;5;5;0;0;0;0
+Tottenham;Chelsea;4;4;64;87;True;10;10;9;8;10;16;10;2;2;2;0;0
+Tottenham;Portsmouth;2;0;64;72;True;17;4;8;4;8;13;7;2;0;1;0;0
+Tottenham;Newcastle;1;4;64;39;True;18;17;10;9;10;8;6;7;1;1;0;0
+Tottenham;Blackburn;1;1;64;67;False;11;12;8;7;4;20;1;1;1;3;0;0
+Tottenham;Middlesbrough;1;1;64;85;True;12;13;9;7;6;19;2;7;0;3;0;0
+Tottenham;Wigan;1;1;64;39;False;15;13;12;7;9;8;6;2;1;2;0;0
+Tottenham;Bolton;1;1;64;51;True;26;7;13;4;6;11;12;3;1;3;0;0
+Tottenham;Reading;1;0;64;50;False;13;13;7;6;7;10;1;10;0;1;0;0
+Tottenham;Liverpool;0;2;64;62;True;6;18;3;12;11;9;8;4;1;1;0;0
+Tottenham;Man United;0;1;64;70;False;9;9;4;1;12;12;2;1;3;2;0;0
+Tottenham;Stoke;2;2;64;54;True;13;16;7;7;15;11;4;3;2;2;0;0
+Tottenham;Leicester;1;1;64;41;False;19;13;6;2;14;7;7;2;4;1;0;0
+Tottenham;Everton;0;0;64;47;True;20;8;6;3;20;9;6;2;4;1;0;0
+Tottenham;Sunderland;1;0;64;38;False;15;12;4;2;12;11;8;6;1;2;0;0
+Tottenham;Crystal Palace;1;0;64;48;True;22;12;6;4;9;11;6;5;1;2;0;0
+Tottenham;Man City;4;1;64;79;True;15;22;8;8;17;6;5;9;5;1;0;0
+Tottenham;Swansea;2;2;64;56;False;19;11;11;2;19;8;6;5;4;1;0;0
+Tottenham;Man United;0;3;64;70;False;20;27;12;21;9;12;3;11;2;1;0;0
+Tottenham;Man City;1;5;64;79;True;15;22;10;12;11;9;10;5;2;4;0;0
+Tottenham;Wolves;2;0;64;78;False;17;10;11;6;12;5;10;4;2;3;0;0
+Tottenham;Liverpool;4;0;64;62;True;24;5;16;2;10;9;4;1;1;4;0;2
+Tottenham;Wigan;2;1;64;39;False;14;5;7;4;6;13;9;1;1;3;0;1
+Tottenham;Arsenal;2;1;64;75;True;16;13;8;7;11;8;9;7;2;1;0;0
+Tottenham;Newcastle;2;2;64;39;False;11;12;8;7;15;11;2;5;2;1;0;0
+Tottenham;Blackburn;2;1;64;67;False;9;19;7;8;7;19;5;8;1;4;0;0
+Tottenham;QPR;3;1;64;30;True;22;12;13;8;12;14;4;8;0;0;0;0
+Tottenham;Fulham;3;1;64;52;False;8;26;8;20;9;5;1;11;1;0;0;0
+Tottenham;Aston Villa;2;0;64;38;True;20;5;9;1;4;5;11;3;0;2;0;0
+Tottenham;West Brom;3;1;64;44;False;23;9;14;5;13;11;10;1;1;2;0;0
+Tottenham;Bolton;3;0;64;51;True;25;13;16;9;10;5;7;6;0;2;0;1
+Tottenham;Stoke;1;2;64;54;False;15;10;12;7;7;8;12;7;2;2;1;0
+Tottenham;Sunderland;1;0;64;38;True;16;8;12;4;6;8;6;0;1;2;0;0
+Tottenham;Chelsea;1;1;64;87;True;16;20;10;10;14;8;7;4;2;2;0;0
+Tottenham;Norwich;2;0;64;86;False;19;8;8;4;6;7;10;3;1;1;0;0
+Tottenham;Swansea;1;1;64;56;False;12;14;7;8;4;8;5;10;2;1;0;0
+Tottenham;West Brom;1;0;64;44;True;20;8;14;2;3;14;14;7;0;5;0;0
+Tottenham;Everton;2;0;64;47;True;14;11;7;4;5;15;6;4;1;3;0;0
+Tottenham;Wolves;1;1;64;78;True;22;5;10;3;6;12;8;1;1;3;0;0
+Tottenham;Man City;2;3;64;79;False;12;13;7;7;10;7;4;9;1;2;0;0
+Tottenham;Wigan;3;1;64;39;True;20;10;13;6;7;7;5;0;0;1;0;0
+Tottenham;Liverpool;0;0;64;62;False;9;15;6;10;11;6;4;7;2;2;0;0
+Tottenham;Newcastle;5;0;64;39;True;18;7;9;3;7;9;4;3;2;1;0;0
+Tottenham;Arsenal;2;5;64;75;False;8;21;4;13;12;15;5;7;3;3;1;0
+Tottenham;Man United;1;3;64;70;True;18;6;9;5;8;10;7;3;1;2;0;0
+Tottenham;Everton;0;1;64;47;False;21;9;9;5;11;13;8;0;2;2;0;0
+Tottenham;Stoke;1;1;64;54;True;24;8;18;2;10;10;13;1;1;1;0;0
+Tottenham;Chelsea;0;0;64;87;False;19;10;7;5;11;9;5;6;2;1;0;0
+Tottenham;Swansea;3;1;64;56;True;15;11;10;7;11;12;7;7;0;0;0;0
+Tottenham;Sunderland;0;0;64;38;False;15;12;8;9;10;12;4;11;2;2;0;0
+Tottenham;Norwich;1;2;64;86;True;13;12;9;6;12;12;10;3;1;2;0;0
+Tottenham;QPR;0;1;64;30;False;17;12;8;5;10;13;13;4;0;4;0;1
+Tottenham;Blackburn;2;0;64;67;True;19;0;8;0;5;14;6;1;0;0;0;0
+Tottenham;Bolton;4;1;64;51;False;13;14;10;8;9;6;7;4;1;2;0;0
+Tottenham;Aston Villa;1;1;64;38;False;21;4;10;2;8;10;19;4;2;1;1;0
+Tottenham;Fulham;2;0;64;52;True;15;10;9;7;8;12;9;3;0;2;0;0
+Tottenham;Portsmouth;2;0;64;72;False;11;11;6;7;23;13;2;7;2;0;0;0
+Tottenham;Middlesbrough;2;0;64;85;True;18;12;8;3;16;10;5;6;3;1;0;0
+Tottenham;Blackburn;0;0;64;67;False;1;11;1;7;12;15;0;7;2;2;0;1
+Tottenham;Chelsea;0;2;64;87;True;11;13;6;7;16;12;2;5;3;2;1;0
+Tottenham;Liverpool;0;0;64;62;True;10;11;7;6;16;13;4;4;1;1;0;0
+Tottenham;Aston Villa;1;1;64;38;False;13;13;7;6;14;14;3;4;2;1;0;0
+Tottenham;Fulham;1;0;64;52;True;9;8;4;5;10;9;6;6;0;3;0;0
+Tottenham;Charlton;3;2;64;60;False;13;9;7;4;17;15;6;1;2;3;0;0
+Tottenham;Everton;2;0;64;47;True;7;8;5;4;13;9;5;8;0;2;0;0
+Tottenham;Man United;1;1;64;70;False;9;13;7;9;12;15;8;7;3;2;0;0
+Tottenham;Arsenal;1;1;64;75;True;11;10;3;7;18;13;6;1;4;2;0;0
+Tottenham;Bolton;0;1;64;51;False;9;9;7;8;9;13;5;6;1;0;0;0
+Tottenham;West Ham;1;1;64;47;True;15;8;8;4;16;13;9;7;3;1;0;0
+Tottenham;Wigan;2;1;64;39;False;7;11;5;3;17;14;5;6;2;0;0;0
+Tottenham;Sunderland;3;2;64;38;True;14;5;8;2;8;19;12;0;0;2;0;0
+Tottenham;Portsmouth;3;1;64;72;True;16;8;9;5;6;19;6;3;0;0;0;0
+Tottenham;Middlesbrough;3;3;64;85;False;8;11;5;8;13;17;4;14;3;2;0;0
+Tottenham;Birmingham;2;0;64;63;True;9;7;4;4;19;17;9;8;4;1;0;1
+Tottenham;West Brom;0;2;64;44;False;7;6;7;5;12;16;3;4;0;0;0;0
+Tottenham;Newcastle;2;0;64;39;True;13;9;3;4;13;11;5;3;0;1;0;0
+Tottenham;Man City;2;0;64;79;False;8;13;2;3;11;8;8;12;2;2;0;0
+Tottenham;Liverpool;0;1;64;62;False;6;16;2;12;12;8;7;10;1;0;1;0
+Tottenham;Aston Villa;0;0;64;38;True;21;4;13;1;10;15;9;2;0;2;0;1
+Tottenham;Fulham;0;1;64;52;False;7;12;3;8;11;9;9;3;3;1;1;0
+Tottenham;Charlton;3;1;64;60;True;14;7;10;5;13;13;5;2;0;3;0;0
+Tottenham;Sunderland;1;1;64;38;False;10;9;7;5;9;16;0;5;1;2;0;0
+Tottenham;Wigan;2;2;64;39;True;10;8;4;5;12;14;4;3;1;1;0;0
+Tottenham;Blackburn;3;2;64;67;True;10;6;5;4;14;12;6;9;2;3;0;0
+Tottenham;Chelsea;1;2;64;87;False;4;13;3;10;16;11;4;4;0;2;0;0
+Tottenham;Birmingham;2;0;64;63;False;9;6;6;4;9;11;4;10;0;2;0;0
+Tottenham;West Brom;2;1;64;44;True;11;13;8;8;10;14;6;5;0;2;0;0
+Tottenham;Newcastle;1;3;64;39;False;10;14;5;11;12;11;3;5;3;2;1;0
+Tottenham;Man City;2;1;64;79;True;23;14;19;6;4;16;8;5;0;3;0;0
+Tottenham;Everton;1;0;64;47;False;10;8;6;4;9;16;9;7;1;2;0;0
+Tottenham;Man United;1;2;64;70;True;15;11;8;5;7;15;9;5;1;1;0;0
+Tottenham;Arsenal;1;1;64;75;False;9;9;6;6;9;9;4;5;1;1;1;0
+Tottenham;Bolton;1;0;64;51;True;9;14;4;6;11;12;6;8;1;5;0;0
+Tottenham;West Ham;1;2;64;47;False;14;12;6;7;7;17;4;11;0;1;0;0
+Tottenham;Birmingham;0;1;64;63;False;15;10;7;5;27;20;4;1;5;3;0;0
+Tottenham;Leeds;2;1;64;56;True;20;5;4;2;14;14;6;0;1;2;0;0
+Tottenham;Liverpool;0;0;64;62;False;9;22;4;10;27;20;5;8;5;2;0;0
+Tottenham;Fulham;0;3;64;52;True;18;9;6;5;15;13;9;4;0;2;0;0
+Tottenham;Chelsea;2;4;64;87;False;9;12;3;6;20;16;3;10;4;1;0;0
+Tottenham;Southampton;1;3;64;60;True;13;12;6;10;15;14;4;7;1;1;0;0
+Tottenham;Man City;0;0;64;79;False;4;21;2;10;15;7;6;6;1;2;0;0
+Tottenham;Everton;3;0;64;47;True;13;12;7;4;15;14;2;6;2;2;0;0
+Tottenham;Leicester;2;1;64;41;False;7;22;4;15;19;12;1;5;3;3;0;0
+Tottenham;Middlesbrough;0;0;64;85;True;12;16;8;10;14;10;8;5;3;2;0;0
+Tottenham;Bolton;0;1;64;51;True;10;25;6;15;18;6;7;5;3;0;0;0
+Tottenham;Arsenal;1;2;64;75;False;5;9;2;3;22;8;5;9;4;1;0;0
+Tottenham;Aston Villa;2;1;64;38;True;10;13;5;6;14;15;3;3;0;1;0;0
+Tottenham;Blackburn;0;1;64;67;False;9;18;3;12;13;10;6;9;1;0;0;0
+Tottenham;Wolves;5;2;64;78;True;12;16;10;8;14;8;4;5;2;0;0;0
+Tottenham;Newcastle;0;4;64;39;False;4;19;4;11;12;10;7;11;2;2;0;0
+Tottenham;Man United;1;2;64;70;True;14;12;8;7;12;8;7;8;2;2;0;0
+Tottenham;Portsmouth;0;2;64;72;False;5;10;3;8;10;10;6;3;1;1;0;0
+Tottenham;Charlton;0;1;64;60;True;18;10;9;8;8;13;11;11;1;0;0;0
+Tottenham;Birmingham;4;1;64;63;True;11;9;7;3;15;6;1;6;0;0;0;0
+Tottenham;Leeds;1;0;64;56;False;15;7;8;1;13;17;5;4;1;0;0;0
+Tottenham;Liverpool;2;1;64;62;True;7;10;3;4;18;9;5;6;1;1;0;0
+Tottenham;Fulham;1;2;64;52;False;4;16;4;10;12;6;13;10;1;1;0;0
+Tottenham;Portsmouth;4;3;64;72;True;15;16;13;9;16;13;6;5;1;0;0;0
+Tottenham;Charlton;4;2;64;60;False;12;18;10;14;14;13;4;10;0;3;0;0
+Tottenham;Leicester;4;4;64;41;True;10;14;9;7;9;14;4;3;0;2;0;1
+Tottenham;Middlesbrough;0;1;64;85;False;10;10;2;6;15;10;5;3;1;1;0;0
+Tottenham;Newcastle;1;0;64;39;True;11;6;4;4;13;13;3;12;0;0;0;0
+Tottenham;Man United;0;3;64;70;False;8;11;3;6;10;14;2;4;1;1;0;0
+Tottenham;Southampton;0;1;64;60;False;15;18;9;11;16;8;6;10;2;0;0;0
+Tottenham;Chelsea;0;1;64;87;True;12;10;7;7;10;10;5;4;2;0;0;0
+Tottenham;Everton;1;3;64;47;False;12;13;7;10;14;9;4;8;3;0;1;0
+Tottenham;Man City;1;1;64;79;True;15;9;10;8;10;21;4;3;1;1;0;0
+Tottenham;Bolton;0;2;64;51;False;4;15;0;10;21;18;5;11;2;1;0;0
+Tottenham;Arsenal;2;2;64;75;True;13;9;7;7;14;15;7;4;1;1;0;0
+Tottenham;Aston Villa;0;1;64;38;False;10;11;5;6;20;15;5;5;1;2;0;0
+Tottenham;Blackburn;1;0;64;67;True;16;14;13;2;9;17;7;7;0;2;0;0
+Tottenham;Wolves;2;0;64;78;False;14;18;12;10;11;6;3;5;1;1;0;1
+Tottenham;Liverpool;2;1;64;62;True;17;6;11;3;14;16;6;5;3;3;0;0
+Tottenham;Hull;5;1;64;35;False;18;9;12;7;13;23;5;6;2;3;0;0
+Tottenham;West Ham;2;1;64;47;False;17;17;10;8;11;13;8;4;1;2;0;0
+Tottenham;Birmingham;2;1;64;63;True;20;11;14;6;12;10;7;3;2;2;0;0
+Tottenham;Man United;1;3;64;70;True;11;17;7;13;16;13;3;9;3;2;0;1
+Tottenham;Chelsea;0;3;64;87;False;9;25;4;15;9;7;3;11;2;0;0;0
+Tottenham;Burnley;5;0;64;33;True;18;10;12;7;10;14;2;7;1;1;0;0
+Tottenham;Bolton;2;2;64;51;False;17;12;9;9;16;15;6;5;1;2;0;0
+Tottenham;Portsmouth;2;1;64;72;False;9;23;4;13;13;14;9;10;3;3;1;1
+Tottenham;Stoke;0;1;64;54;True;22;8;12;2;8;18;7;1;0;3;0;0
+Tottenham;Arsenal;0;3;64;75;False;7;18;5;12;10;10;2;6;1;1;0;0
+Tottenham;Sunderland;2;0;64;38;True;10;14;8;6;10;19;4;4;1;2;0;0
+Tottenham;Wigan;9;1;64;39;True;28;11;16;5;9;11;10;5;1;0;0;0
